@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListEmpty with title 1`] = `
+<View
+  style={
+    Object {
+      "alignContent": "center",
+      "backgroundColor": "#FFF",
+      "flex": 1,
+      "height": 100,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontStyle": "italic",
+        "textAlign": "center",
+      }
+    }
+  >
+    Test ListEmpty
+  </Text>
+</View>
+`;
+
+exports[`ListEmpty without title 1`] = `
+<View
+  style={
+    Object {
+      "alignContent": "center",
+      "backgroundColor": "#FFF",
+      "flex": 1,
+      "height": 100,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontStyle": "italic",
+        "textAlign": "center",
+      }
+    }
+  >
+    No data
+  </Text>
+</View>
+`;

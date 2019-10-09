@@ -1,0 +1,502 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PeopleCard render 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#EEE",
+        "borderBottomColor": "gray",
+        "borderBottomWidth": 1,
+        "borderTopLeftRadius": 5,
+        "borderTopRightRadius": 5,
+        "height": 140,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": -1,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderColor": "gray",
+        "borderRadius": 80,
+        "borderWidth": 1,
+        "height": 160,
+        "justifyContent": "center",
+        "marginTop": 30,
+        "padding": 10,
+        "width": 160,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "http://api.randomuser.me/portraits/men/11.jpg",
+        }
+      }
+      style={
+        Object {
+          "borderRadius": 75,
+          "height": 150,
+          "width": 150,
+        }
+      }
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "gray",
+          "fontSize": 15,
+          "padding": 5,
+        }
+      }
+    >
+      My address is
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 19,
+        }
+      }
+    >
+      4797 greenhaven ln
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "paddingHorizontal": 5,
+        "paddingVertical": 30,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "borderTopColor": "#83B943",
+          "borderTopWidth": 2,
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#83B943",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`PeopleCard render when no data 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#EEE",
+        "borderBottomColor": "gray",
+        "borderBottomWidth": 1,
+        "borderTopLeftRadius": 5,
+        "borderTopRightRadius": 5,
+        "height": 140,
+        "position": "absolute",
+        "top": 0,
+        "width": "100%",
+        "zIndex": -1,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderColor": "gray",
+        "borderRadius": 80,
+        "borderWidth": 1,
+        "height": 160,
+        "justifyContent": "center",
+        "marginTop": 30,
+        "padding": 10,
+        "width": 160,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+        "padding": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "gray",
+          "fontSize": 15,
+          "padding": 5,
+        }
+      }
+    >
+      My address is
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontSize": 19,
+        }
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "paddingHorizontal": 5,
+        "paddingVertical": 30,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "borderTopColor": "#83B943",
+          "borderTopWidth": 2,
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#83B943",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "paddingTop": 5,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#DADADA",
+              "fontSize": 30,
+            },
+            Object {
+              "padding": 7,
+            },
+            Object {
+              "fontFamily": "Feather",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</View>
+`;

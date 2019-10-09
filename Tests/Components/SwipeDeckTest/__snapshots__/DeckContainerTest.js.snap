@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeckContainer render when list card have data 1`] = `
+<View
+  onMoveShouldSetResponder={[Function]}
+  onMoveShouldSetResponderCapture={[Function]}
+  onResponderEnd={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderReject={[Function]}
+  onResponderRelease={[Function]}
+  onResponderStart={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  onStartShouldSetResponderCapture={[Function]}
+  style={
+    Object {
+      "backgroundColor": "white",
+      "borderRadius": 5,
+      "height": 1134,
+      "margin": 20,
+      "position": "absolute",
+      "transform": Array [
+        Object {
+          "rotate": "0deg",
+        },
+        Object {
+          "translateX": 0,
+        },
+        Object {
+          "translateY": 0,
+        },
+      ],
+      "width": 710,
+    }
+  }
+>
+  <Text>
+    tinymeercat81
+  </Text>
+</View>
+`;
+
+exports[`DeckContainer render when list card is empty 1`] = `<View />`;
